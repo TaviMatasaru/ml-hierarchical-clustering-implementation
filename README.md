@@ -16,11 +16,7 @@ pip install pandas numpy
 
 ## Dataset
 
-The script is configured to load the penguin dataset locally from:
-
-\`\`\`
-/Users/tavi/Documents/College/YEAR 3 SEM 1/ML/Hierarchical/penguins.csv
-\`\`\`
+The script is configured to load the penguin dataset locally.
 
 Alternatively, you can uncomment the section of the code that downloads the dataset directly from the seaborn dataset repository.
 
